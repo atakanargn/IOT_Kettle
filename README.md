@@ -11,9 +11,9 @@ WifiManager kütüphanesi ile kurulum modu eklendi.
 * 3001 portundan girilen web sayfasından saat kurularak yine aynı pinin o saatte çalışması sağlanabiliyor.
 * saat.py dosyasından NTP ile internetten saat çekilir, Türkiye için olduğundan UTC +3 olarak ayarlıdır.
 
-## Kaynaklar
-[NODEMCU Pinout](https://i0.wp.com/randomnerdtutorials.com/wp-content/uploads/2019/05/ESP8266-NodeMCU-kit-12-E-pinout-gpio-pin.png?quality=100&strip=all&ssl=1)
-[ESP-01 Pinout](https://raw.githubusercontent.com/AchimPieters/ESP8266-12F---Power-Mode/master/ESP8266_01X.jpg)
-[ESP-01 Bootloader Mode](https://i.stack.imgur.com/l5rRA.jpg)
-[Micropython ESP8266](https://docs.micropython.org/en/latest/esp8266/tutorial/intro.html)
-[tzapu /WiFiManager](https://github.com/tzapu/WiFiManager)
+## Kaynaklar 
+[NODEMCU Pinout](https://i0.wp.com/randomnerdtutorials.com/wp-content/uploads/2019/05/ESP8266-NodeMCU-kit-12-E-pinout-gpio-pin.png?quality=100&strip=all&ssl=1) <br>
+[ESP-01 Pinout](https://raw.githubusercontent.com/AchimPieters/ESP8266-12F---Power-Mode/master/ESP8266_01X.jpg) <br>
+[ESP-01 Bootloader Mode](https://i.stack.imgur.com/l5rRA.jpg) <br>
+[Micropython ESP8266](https://docs.micropython.org/en/latest/esp8266/tutorial/intro.html) <br>
+[tzapu /WiFiManager](https://github.com/tzapu/WiFiManager) <br>
